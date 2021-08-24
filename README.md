@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to ACT and surrronding areas robotics code dump.
 
-You can use the [editor on GitHub](https://github.com/Lego-Robotics-2021/lego-robotics-2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
+# **Here you can create a reporsitory to put you project in a central location**
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
